@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌐 radio.joni8829.com", "🎧 Tune in now!"];
+const statusMessages = ["🌐 streamfm.joni8829.com", "🎧 Tune in now!"];
 
 
 let currentIndex = 0;
